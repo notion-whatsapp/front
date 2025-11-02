@@ -1,0 +1,18 @@
+{
+  "name": "automocao-notion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node . "
+  },
+  "keywords": [],
+  "author": {
+    "name": "Pietro Fontenele"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^5.3.0"
+  }
+}
